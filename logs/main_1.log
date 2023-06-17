@@ -1,0 +1,21 @@
+[INFO      ] - Запуск программы
+[INFO      ] - Начинаю обработку id
+[INFO      ] - Получено 4 фотографий профиля 1
+[INFO      ] - Начинаю обработку фотографий
+[INFO      ] - На фотографии №1 270543 лайков
+[INFO      ] - Фотография №1 сохранена по пути temp/270543.jpg
+[ERROR     ] - Ответ API Диска - {'message': 'Ресурс "netology/1/270543" уже существует.', 'description': 'Resource "netology/1/270543" already exists.', 'error': 'DiskResourceAlreadyExistsError'}
+[INFO      ] - Фотография №1 сохранена на Диск
+[INFO      ] - На фотографии №2 574918 лайков
+[INFO      ] - Фотография №2 сохранена по пути temp/574918.jpg
+[ERROR     ] - Ответ API Диска - {'message': 'Ресурс "netology/1/574918" уже существует.', 'description': 'Resource "netology/1/574918" already exists.', 'error': 'DiskResourceAlreadyExistsError'}
+[INFO      ] - Фотография №2 сохранена на Диск
+[INFO      ] - На фотографии №3 1475900 лайков
+[INFO      ] - Фотография №3 сохранена по пути temp/1475900.jpg
+[ERROR     ] - Ответ API Диска - {'message': 'Ресурс "netology/1/1475900" уже существует.', 'description': 'Resource "netology/1/1475900" already exists.', 'error': 'DiskResourceAlreadyExistsError'}
+[INFO      ] - Фотография №3 сохранена на Диск
+[INFO      ] - На фотографии №4 599030 лайков
+[INFO      ] - Фотография №4 сохранена по пути temp/599030.jpg
+[INFO      ] - Ответ API Диска - <Response [201]>
+[INFO      ] - Фотография №4 сохранена на Диск
+[INFO      ] - JSON-файл с данными о файлах сохранен
